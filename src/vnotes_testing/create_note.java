@@ -33,7 +33,7 @@ public class create_note {
         
         Thread.sleep(2000);  
         
-        // click on save note
+        // click on save note - this is creating issue
         driver.findElement(By.name("save-note")).click();
         
         
